@@ -1,0 +1,22 @@
+main {
+    font-family: sans-serif;
+  }
+  h1, p {
+    text-align: center;
+    display: block;
+  }
+  section{
+    display: block;
+  }
+  #img-div {
+     text-align: center;
+     display: block;
+     filter: grayscale(100%);
+     width: 100%;
+  }
+  img {
+    padding-top: 10px;
+    height: auto;
+    max-width: 100%;
+    display: block;
+  }
